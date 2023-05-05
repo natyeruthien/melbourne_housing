@@ -1,12 +1,3 @@
----
-title: "Regression project"
-author:
-  - Andriani Panagi
-  - Natalia Korai
-  - Waqar Aziz Sulaiman
-date: "`r Sys.Date()`"
----
-
 ## Import the data set
 
 ```{r}
