@@ -1,7 +1,7 @@
 Regression project
 ================
-Andriani Panagi
-Natalia Korai
+Andriani Panagi,
+Natalia Korai,
 Waqar Aziz Sulaiman
 2023-05-05
 
